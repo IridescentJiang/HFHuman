@@ -5,7 +5,7 @@ Official PyTorch implementation for the paper:
 >
 > Yiming Jiang, Wenfeng Song\*,  Shuai Li\*, Aimin Hao
 >
-> \* Wenfeng Song and Shuai Li are corresponding authors. Email: songwen-fenga@gmail.com, lishuai@buaa.edu.cn
+> \* Wenfeng Song and Shuai Li are corresponding authors. Email: songwenfenga@gmail.com, lishuai@buaa.edu.cn
 
 
 
