@@ -11,7 +11,7 @@ Official PyTorch implementation for the paper:
 
 ![image-20251027171531822](https://pic-jym.oss-cn-beijing.aliyuncs.com/img/image-20251027171531822.png)
 
-Given a single RGB image, **HFHuman** can reconstruct a detailed 3D human body model by extracting and fusing the corresponding normal map, depthmap,  and  human  body  parametric  geometry  mode.
+> Given a single RGB image, **HFHuman** can reconstruct a detailed 3D human body model by extracting and fusing the corresponding normal map, depthmap,  and  human  body  parametric  geometry  mode.
 
 
 
@@ -19,7 +19,7 @@ Given a single RGB image, **HFHuman** can reconstruct a detailed 3D human body m
 
 ![image-20251027171540632](https://pic-jym.oss-cn-beijing.aliyuncs.com/img/image-20251027171540632.png)
 
-Given a single RGB image, we use the Prior Knowledge-Based Estimation models to obtain the corresponding geometry, depth,  and  normal  map.  During  the  training  phase,  the  human  body  model  parameters  are  rectified  using  the  Progressive  Geometry  Rectification  process. Lastly,  we  leverage  the  Multi-Modality  Adaptor  to  fuse  the  pixel  features  provided  by  the  depth  map  with  the  voxel  features  provided  by  the  human  body parametric model, enabling us to reconstruct a detailed geometric human body model.
+> Given a single RGB image, we use the Prior Knowledge-Based Estimation models to obtain the corresponding geometry, depth,  and  normal  map.  During  the  training  phase,  the  human  body  model  parameters  are  rectified  using  the  Progressive  Geometry  Rectification  process. Lastly,  we  leverage  the  Multi-Modality  Adaptor  to  fuse  the  pixel  features  provided  by  the  depth  map  with  the  voxel  features  provided  by  the  human  body parametric model, enabling us to reconstruct a detailed geometric human body model.
 
 
 
