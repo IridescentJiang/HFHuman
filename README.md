@@ -113,9 +113,12 @@ Use sample_points.py to sample points from the dataset Mesh to speed up training
 @ARTICLE{11207513,
   author={Jiang, Yiming and Song, Wenfeng and Li, Shuai and Hao, Aimin},
   journal={IEEE Transactions on Visualization and Computer Graphics}, 
-  title={HFHuman: High-Fidelity Human Reconstruction from Single Image with Multi-Modality Fusion}, 
-  year={2025},
-  pages={1-12},
+  title={HFHuman: High-Fidelity Human Reconstruction From Single Image With Multi-Modality Fusion}, 
+  year={2026},
+  volume={32},
+  number={2},
+  pages={2152-2164},
+  keywords={Image reconstruction;Three-dimensional displays;Solid modeling;Parametric statistics;Surface reconstruction;Feature extraction;Clothing;Geometry;Accuracy;Limbs;3D human modeling;depth-geometric integration;monocular reconstruction;multi-modality fusion},
   doi={10.1109/TVCG.2025.3623198}}
 ```
 
